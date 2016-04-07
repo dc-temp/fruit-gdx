@@ -1,0 +1,131 @@
+
+item1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xingxingX3
+  rotate: false
+  xy: 0, 0
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 79, 0
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+xiguaX3
+  rotate: false
+  xy: 158, 0
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+xigua
+  rotate: false
+  xy: 0, 80
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+tonglingX3
+  rotate: false
+  xy: 79, 80
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+tongling
+  rotate: false
+  xy: 158, 80
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+pingguoX3
+  rotate: false
+  xy: 0, 160
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+pingguo
+  rotate: false
+  xy: 79, 160
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+mangguoX3
+  rotate: false
+  xy: 158, 160
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+mangguo
+  rotate: false
+  xy: 0, 240
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+luckyou
+  rotate: false
+  xy: 79, 240
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+luckzuo
+  rotate: false
+  xy: 79, 240
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+juziX3
+  rotate: false
+  xy: 158, 240
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+juzi
+  rotate: false
+  xy: 0, 320
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+barX50
+  rotate: false
+  xy: 0, 400
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+barX100
+  rotate: false
+  xy: 79, 320
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+77X3
+  rotate: false
+  xy: 158, 320
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+77
+  rotate: false
+  xy: 79, 400
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
